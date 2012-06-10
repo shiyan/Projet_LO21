@@ -10,10 +10,11 @@ TARGET = New_Projet
 TEMPLATE = app
 
 
-SOURCES += main.cpp\
-        mainwindow.cpp \
-    pile.cpp \
-    constante.cpp
+SOURCES += \
+    constante.cpp \
+    mainwindow.cpp \
+    main.cpp \
+    pile.cpp
 
 HEADERS  += mainwindow.h \
     pile.h \
