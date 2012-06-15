@@ -1,0 +1,22 @@
+Pas assez de operand pour une operation.
+3
+Pas assez de operand pour une operation.
+3
+Cette operateur ne peut pas etre utilise par complexe.
+2
+Pas plus de annuler, vous pouvez faire reset.
+1
+Pas plus de retablir.
+1
+La pile est vide, impossible de depiler.
+3
+Pas plus de annuler, vous pouvez faire reset.
+1
+La pile est vide, impossible de depiler.
+3
+La pile est vide, impossible de depiler.
+3
+Pas plus de annuler, vous pouvez faire reset.
+1
+Pas plus de annuler, vous pouvez faire reset.
+1
